@@ -1,3 +1,8 @@
 # TEST
-homework
-no 
+#include<stdio.h>
+intmain(Void)
+{
+printf("HelloWorld\n");
+ 
+return0;
+}
